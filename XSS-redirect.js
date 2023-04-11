@@ -1,3 +1,3 @@
-<html>
+<script>
 <img src=x onerror='javascript:window.open("http://www.google.com", "_blank");' >
-</html>
+</script>
